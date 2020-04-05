@@ -2,7 +2,9 @@
 
 A to-do application made using Javascript to help keep track of tasks
 
-## Link to Live Site
+## Screenshot
+
+![photo-of-game](https://github.com/codewithsrobins1/ColorGame/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
@@ -10,3 +12,8 @@ A to-do application made using Javascript to help keep track of tasks
 * CSS
 * Javascript
 * Jquery
+
+### Credit
+
+* Project from Colt Steele's 'The Web Developer Bootcamp' 
+* https://www.udemy.com/share/101W92BEQadlpVQHg=/
