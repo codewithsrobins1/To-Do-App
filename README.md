@@ -4,7 +4,7 @@ A to-do application made using Javascript to help keep track of tasks
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/ColorGame/blob/master/readmeImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/To-Do-App/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
